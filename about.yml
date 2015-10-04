@@ -1,75 +1,118 @@
-title: Daniel Hauck - System Engineer & Backend Developer
-name: Daniel Hauck
-email: daniel@hauck.it
-url: hauck-daniel.de
-location: Leinfelden-Echterdingen
-favicon: favicon.ico
-ext_link: https://blog.hauck.io
-description: Daniel Hauck, System Engineer & Backenddeveloper, Linux Administrator, Python Developer, based in Stuttgart, Database Adminstrator(DBA) 
+title: Gianluca Fiore - System Engineer & Developer
+name: Gianluca Fiore
+email: forod.g@gmail.com
+url: gianlucafiore.it
+location: Warsaw, Poland
+ext_link: http://www.gianlucafiore.it
+description: Gianluca Fiore, System Engineer, Developer, Linux Administrator, Python/Lua/Go Developer, Script lover and Open Source advocate
 long_description: >
-    I work as a system engineer and backend developer.   
-    I am specialized in building high performance  and 
-    highly availabe infrastructures and I am a lover of 
-    fast and simple systems. My current interests are 
-    automation, IoT, databases(SQL, NoSQL) and workflow 
-    simplification and optimization. If you are interested 
-    in my work, take a look at the 'Latest Projects' or 
-    take a look at my blog.
-profession: System Administrator & Backend Developer
-twitter_link: https://twitter.com/daniel_hauck
-gplus_link: https://plus.google.com/u/1/+DanielHauckLinux
-linkedin_link: https://de.linkedin.com/pub/daniel-hauck/74/283/943
-github_link: https://github.com/hauckd
+    I work as a system engineer and all around developer.
+    I am specialized in Python backends but have a vast
+    background in many other languages (Lua, Go, C, and
+    some Lisp's dialects). Currently improving towards
+    frontend development in JavaScript (mostly NodeJS as
+    backend and AngularJS as frontend). Dabbled in various
+    different databases (SQL and NoSQL). If you are interested
+    in my work, take a look at my blog
+profession: System Administrator & Developer
+twitter_link: https://twitter.com/Donearm
+linkedin_link: https://pl.linkedin.com/pub/gianluca-fiore/b6/913/a70
+github_link: https://github.com/Donearm
 
-projects: 
-        - title: didit
-          image: images/project_didit.png
-          link: didit.notimetoexplain.de
+projects:
+        - title: Blowyaml
           description: >
-            Didit is a small service which emails you in defined period and asks you what you have done,
-            or what you haven't done.
-            You just reply to the mail with the tasks you have done, or tasks you haven't done for a reason.
-            Now everbody has replied in a range of time, didit collects the information of the team members
-            and sends an email to everyone that they can see, what the other members have done.
+            Blowfish encryption of passwords' file (in YAML) 
 
-        - title: PySnipp
+        - title: Ubaryd
           description: >
-              PySnipp is a command line application for collecting snippets and notes. For example you could store often used pieces of code there. For adding and editing your snippets the text editor vim is used.
+            A Vim color scheme with warm, Mediterranean-like, colours 
+        
+        - title: Laederon
+          description: >
+            A Vim color scheme with cold, tundra-like, colours 
+
+        - title: WritingMode.vim
+          description: >
+            A plugin to write prose in Vim 
+
+        - title: Renamer.go
+          description: >
+            A batch renaming script in Go 
+
+        - title: PyImagedownloader
+          description: >
+            Image downloader from free image hostings in Python 
+
+        - title: Mpd-Info
+          description: >
+            Lua scripts to output MPD playing info 
+
+        - title: go-notify-me
+          description: >
+            MPD notification status script in Go 
+
+        - title: CryptandDrop
+          description: >
+            A program to encrypt/decrypt files and send them to Dropbox 
 
 
 skills:
         - name: Linux
-          description: profound linux command line knowledge in general
+          description: linux command line knowledge and distros' differences
           percentage: 90
-
-        - name: Automation
-          descripition: Continous Deployment and Integration, Server Installation and Environment Provision
-          percentage: 90
-
-        - name: Database Administrator      
-          descripition: RDMBS(PostgreSQL, MySQL) and NoSQL(MongoDB, Redis, ArangoDB) 
-          percentage: 80
 
         - name: Python 
-          descripition: Backend Development
-          percentage: 60 
+          descripition: Developer
+          percentage: 80
+
+        - name: Lua
+          description: Developer
+          percentage: 60
+
+        - name: Go
+          description: Developer
+          percentage: 60
+
+        - name: Shell scripting
+          description: Automation of tasks with shell (Bash mostly) scripting
+          percentage: 80
+
+        - name: Javascript
+          description: Frontend Developer
+          percentage: 30
+
+        - name: HTML/CSS
+          description: Designer
+          percentage: 60
 
 languages:
-        - name: German
+        - name: Italian
           level: Native Speaker   
           stars: 5
 
         - name: English
           level: Business Fluent
           stars: 4
+
+        - name: Spanish
+          level: Intermediate
+          stars: 3
+
+        - name: Portuguese
+          level: Basic
+          stars: 1
+
+        - name: Polish
+          level: Learning...
+          stars: 0
         
         
 tools:
     - vim
     - tmux
     - git
-    - ansible 
-    - salt
-    - nginx
     - python
-    - many more
+    - lua
+    - bash
+    - anything CLI-based basically

@@ -4,7 +4,7 @@ This is still WIP, and I am about to add some features.
 
 # watch it live
 
-You can see a live example here(actually mine): http://hauck-daniel.de/cli/
+You can see my example live here: http://www.gianlucafiore.it/terminalcv/index.html
 
 # Usage
 terminalCV is a little python script that uses jinja2 to render a html-template with javascript stuff in it.

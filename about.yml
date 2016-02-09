@@ -114,7 +114,4 @@ tools:
     - vim
     - tmux
     - git
-    - python
-    - lua
-    - bash
     - anything CLI-based basically

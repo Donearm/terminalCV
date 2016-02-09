@@ -61,6 +61,9 @@ jQuery(document).ready(function($) {
                 {% if about.github_link %}
                     term.echo("GitHub: {{ about.github_link }}");
                 {% endif %}
+                {% if about.facebook_link %}
+                    term.echo("Facebook: {{ about.facebook_link }}");
+                {% endif %}
                 break;
                 
             case 'skills':

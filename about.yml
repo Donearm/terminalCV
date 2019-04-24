@@ -3,18 +3,17 @@ name: Gianluca Fiore
 email: forod.g@gmail.com
 url: gianlucafiore.it
 location: Krakow, Poland
-ext_link: http://www.gianlucafiore.it
+ext_link: https://www.gianlucafiore.it
 favicon: favicon.ico
 description: Gianluca Fiore, System Engineer, Developer, Linux Administrator, Python/Lua/Go Developer, Script lover and Open Source advocate
 long_description: >
     I work as a system engineer and all around developer.
-    I am specialized in Python backends but have a vast
-    background in many other languages (Lua, Go, C, and
-    some Lisp's dialects). Currently improving towards
-    frontend development in JavaScript (mostly NodeJS as
-    backend and AngularJS as frontend). Dabbled in various
-    different databases (SQL and NoSQL). If you are interested
-    in my work, take a look at my blog
+    I am specialized in Python backends but have a vast background in 
+    many other languages (Lua, Go, C). 
+    Currently improving towards frontend development in JavaScript 
+    (mostly NodeJS as backend and React/jQuery as frontend). Dabbled in 
+    various different databases (SQL and NoSQL). If you are interested 
+    in my work, take a look at my blog.
 profession: System Administrator & Developer
 twitter_link: https://twitter.com/Donearm
 linkedin_link: https://pl.linkedin.com/pub/gianluca-fiore/b6/913/a70
@@ -34,17 +33,9 @@ projects:
           description: >
             A Vim color scheme with cold, tundra-like, colours 
 
-        - title: WritingMode.vim
-          description: >
-            A plugin to write prose in Vim 
-
         - title: Renamer.go
           description: >
             A batch renaming script in Go 
-
-        - title: PyImagedownloader
-          description: >
-            Image downloader from free image hostings in Python 
 
         - title: Mpd-Info
           description: >
@@ -54,9 +45,18 @@ projects:
           description: >
             MPD notification status script in Go 
 
-        - title: CryptandDrop
+          title: m2t
           description: >
-            A program to encrypt/decrypt files and send them to Dropbox 
+              Magnet links to torrent files
+
+          title: InstagramDownloader
+          description: >
+              A mass Instagram Downloader
+
+
+          title: awesome-tutorials
+          description: >
+              Tutorials worth your time to read
 
 
 skills:
@@ -86,7 +86,7 @@ skills:
 
         - name: HTML/CSS
           description: Designer
-          percentage: 60
+          percentage: 50
 
 languages:
         - name: Italian
@@ -106,8 +106,8 @@ languages:
           stars: 1
 
         - name: Polish
-          level: Learning...
-          stars: 0
+          level: Basic
+          stars: 1
         
         
 tools:

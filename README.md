@@ -12,7 +12,7 @@ After it is rendered, you just need to upload it to your webroot or subdirectory
 
 To use it, clone the repository and install requirements with pip:
 
-	$  git clone git@github.com:hauckd/terminalCV.git && cd terminalCV
+	$  git clone https://github.com/Donearm/terminalCV && cd terminalCV
 	$  sudo pip install -r requirements.txt
 
 Modify the about.yml with your favorite text editor
